@@ -6,7 +6,7 @@
 //  Copyright © 2016年 amsoft. All rights reserved.
 //
 
-#import "RCTBridgeModule.h"
+#import <React/RCTBridgeModule.h>
 
 @interface RNProgressHUB : NSObject<RCTBridgeModule>
 
